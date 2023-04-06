@@ -1,0 +1,8 @@
+CONST_LISTLEN  =30
+CONST_TRIGERRATIO=0.01
+
+VERYSMALLNUM=0.0000001
+MAXTRADENUM=7       #同时处理的交易对上限
+TIMEOUTTICK=40      #超时撤销订单的超时时间
+TOLERANCE = 0.01   #加单或者止损点比例
+ratioAddList=[1,1,1,3,6,9,9,10,10]
